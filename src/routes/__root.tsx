@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Nassau Consult BV" },
+      { name: "description", content: "Interim manager in change, crisis en operations met 15 jaar ervaring. Ik breng structuur, verbind teams en vertaal strategie naar tastbare resultaten." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Nassau Consult BV" },
+      { property: "og:description", content: "Interim manager in change, crisis en operations met 15 jaar ervaring. Ik breng structuur, verbind teams en vertaal strategie naar tastbare resultaten." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Nassau Consult BV" },
+      { name: "twitter:description", content: "Interim manager in change, crisis en operations met 15 jaar ervaring. Ik breng structuur, verbind teams en vertaal strategie naar tastbare resultaten." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/33f316d5-d389-4b9d-9f7a-045a11e4fd78/id-preview-67b180f3--90db9943-c48b-48cb-90e3-e915b64d795f.lovable.app-1778429833689.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/33f316d5-d389-4b9d-9f7a-045a11e4fd78/id-preview-67b180f3--90db9943-c48b-48cb-90e3-e915b64d795f.lovable.app-1778429833689.png" },
     ],
     links: [
       {
