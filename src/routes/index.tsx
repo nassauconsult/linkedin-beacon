@@ -27,6 +27,7 @@ function Index() {
         <address className="not-italic text-[#1a3668]">
           <p className="font-semibold">Nassau Consult BV</p>
           <p className="text-sm text-[#1a3668]/80">2000 Antwerpen</p>
+          <p className="text-sm text-[#1a3668]/60">VAT: BE1038.191.592</p>
         </address>
 
         <div className="flex flex-wrap items-center justify-center gap-3">
